@@ -1,0 +1,66 @@
+.fee a{
+    color: #3A3838;
+}
+.box{
+    width: 350px;;
+height: 170px;
+top: 414px;
+background: #B71C1C;
+margin-left: 10px;
+}
+.p1{
+    font-family: Roboto;
+font-size: 19px;
+font-weight: 700;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+color: white;
+}
+.p2{
+    font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+color: white;
+}
+.p3{
+    font-family: Roboto;
+font-size: 22px;
+font-weight: 700;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: center;
+
+
+
+}
+.p4{
+    font-family: Roboto;
+font-size: 22px;
+font-weight: 700;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+margin-bottom: 100px;
+margin-top: 20px;
+}
+.p5{
+    font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;
+color: #686868;
+
+}
+.salokm{
+    background: #3A3838;
+
+}
+.alik{
+    color: white;
+}
